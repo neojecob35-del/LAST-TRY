@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IG Helper</string>
+    <string name="service_desc">Taps like and save on Instagram Reels while running. Only active in the Instagram app.</string>
+</resources>
